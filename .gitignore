@@ -1,1 +1,6 @@
 .venv
+*_key.pem
+*_cert.pem
+temp_*.pem
+server.key
+server.crt
